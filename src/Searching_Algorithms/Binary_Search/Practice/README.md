@@ -1,3 +1,4 @@
+Feel free to delete the existing code in this folder and challenge yourself to solve the problems on your own.
 
 1. [Find the index of a given element in a sorted array.](https://leetcode.com/problems/binary-search/)
 2. [Find the first occurrence of a given element in a sorted array.](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
