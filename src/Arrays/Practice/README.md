@@ -1,4 +1,4 @@
-Feel free to delete the existing code in this folder and challenge yourself to solve the problems on your own.
+Create a dedicated folder using your unique username to store your solutions. Once you have successfully solved at least five questions, it's time to showcase your progress by submitting a pull request. Don't forget to provide helpful comments for each solution, explaining your thought process and approach. This way, you can not only track your own growth but also share your achievements with others in a meaningful way.
 
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

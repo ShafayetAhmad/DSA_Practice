@@ -64,6 +64,9 @@ Each topic folder contains Java classes with detailed explanations and examples.
 
 Contributions to this repository are welcome! If you have any ideas, suggestions, or want to add new algorithms or improve existing ones, please open an issue or submit a pull request. Together, we can make this repository a valuable resource for practicing data structures and algorithms.
 
+Also, Create a dedicated folder using your unique username to store your solutions in each practice folder. Once you have successfully solved at least five problems, it's time to showcase your progress by submitting a pull request. Don't forget to provide helpful comments for each solution, explaining your thought process and approach. This way, you can not only track your own growth but also share your achievements with others in a meaningful way.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

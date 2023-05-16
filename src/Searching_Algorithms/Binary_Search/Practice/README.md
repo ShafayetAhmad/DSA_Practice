@@ -1,4 +1,4 @@
-Feel free to delete the existing code in this folder and challenge yourself to solve the problems on your own.
+Create a dedicated folder using your unique username to store your solutions. Once you have successfully solved at least five questions, it's time to showcase your progress by submitting a pull request. Don't forget to provide helpful comments for each solution, explaining your thought process and approach. This way, you can not only track your own growth but also share your achievements with others in a meaningful way.
 
 1. [Find the index of a given element in a sorted array.](https://leetcode.com/problems/binary-search/)
 2. [Find the first occurrence of a given element in a sorted array.](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
