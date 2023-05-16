@@ -1,13 +1,13 @@
 package Searching_Algorithms.Binary_Search.Learn;
 
-public class ceiling_of_a_number {
-
+public class floor_of_a_number {
     public static int solution(int[] arr, int target){
         int left = 0;
         int right = arr.length-1;
-        if(arr[right]<target){
-            return -1;              // no ceiling available as last element is smaller than target
+        if(arr[left]>target){
+            return -1;          // no floor as first element is greater than target
         }
+
         while(left <= right){
             int mid = (left+right)/2;
             if(arr[mid] == target){
@@ -18,11 +18,10 @@ public class ceiling_of_a_number {
                 right = mid-1;
             }
         }
-        return left;
+        return right;       // same as ceiling of a number only for floor, we return right
     }
     public static void main(String[] args) {
         int[] arr = {2,3,5,9,14,16,18};
         System.out.println(solution(arr, 15));
     }
 }
-
