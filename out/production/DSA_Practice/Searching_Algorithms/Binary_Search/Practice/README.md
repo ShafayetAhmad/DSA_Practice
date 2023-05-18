@@ -11,3 +11,5 @@ Create a dedicated folder using your unique username to store your solutions. On
 9. [Search an element in a sorted and rotated array.](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 10. [Find the floor or ceiling of a given element in a sorted array.](https://leetcode.com/problems/find-k-closest-elements/)
 11. [Find Smallest Letter Greater Than Target.](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+12. [Find in Mountain Array.](https://leetcode.com/problems/find-in-mountain-array/description/)
+13. [Find Peak Element.](https://leetcode.com/problems/find-peak-element/)
