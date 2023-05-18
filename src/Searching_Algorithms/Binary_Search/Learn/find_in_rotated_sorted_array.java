@@ -51,7 +51,7 @@ public class find_in_rotated_sorted_array {
             if(mid > start && arr[mid] < arr[mid-1]){
                 return mid-1;
             }
-            // if mid-element is smaller than or equal to first element then we don't need elements mid to end
+            // if mid-element is smaller than or equal to first ele ment then we don't need elements mid to end
             if(arr[start] >= arr[mid]){
                 end = mid - 1;
             }
