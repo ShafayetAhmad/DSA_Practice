@@ -18,5 +18,7 @@ Please remove all the codes in this folder and focus on practicing on your own. 
 14. Exponential Search
 15. Interpolation Search
 16. Ternary Search
+17. Search in 2d Array Sorted row-wise and column-wise
+18. 
 
 > Note: I will be linking a dedicated blog post for each of these variations, providing detailed explanations and implementation examples.
