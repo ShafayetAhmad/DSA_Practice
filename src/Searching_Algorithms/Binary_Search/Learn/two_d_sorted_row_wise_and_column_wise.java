@@ -1,6 +1,6 @@
 package Searching_Algorithms.Binary_Search.Learn;
 
-public class sorted_row_wise_and_column_wise {
+public class two_d_sorted_row_wise_and_column_wise {
     public static void main(String[] args) {
         int[][] arr= {
                 {10, 20, 30, 40},
