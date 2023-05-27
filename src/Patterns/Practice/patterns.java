@@ -2,7 +2,7 @@ package Patterns.Practice;
 
 public class patterns {
     public static void main(String[] args) {
-        pattern5(6);
+        pattern6(6);
     }
 
     static void pattern1(int n) {
@@ -56,6 +56,22 @@ public class patterns {
             System.out.println();
 
         }
+    }
+
+    static void pattern6(int n) {
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n - i; j++) {
+                System.out.print(" "+" ");
+            }
+
+            for (int k = 1; k <= i; k++) {
+                System.out.print("*"+" ");
+            }
+
+            System.out.println();
+        }
+
     }
 
 
