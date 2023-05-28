@@ -2,7 +2,7 @@ package Patterns.Practice;
 
 public class patterns {
     public static void main(String[] args) {
-        pattern8(6);
+        pattern9(6);
     }
 
     static void pattern1(int n) {
@@ -91,6 +91,20 @@ public class patterns {
     static void pattern8(int n) {
 
         for(int i = 0; i < n; i++){
+            for(int j = n-i; j > 0 ; j --){
+                System.out.print(" ");
+            }
+            for(int k = i*2+1; k > 0 ; k--){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+    }
+
+    static void pattern9(int n) {
+
+        for(int i = n; i >= 0; i--){
             for(int j = n-i; j > 0 ; j --){
                 System.out.print(" ");
             }
