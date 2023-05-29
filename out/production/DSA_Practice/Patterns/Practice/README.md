@@ -1,3 +1,4 @@
+```
 
 
 1.  *****
@@ -300,3 +301,4 @@ Important pattern-related questions along with their corresponding LeetCode link
     - [LeetCode: Print Pattern - Hollow Rectangle](https://leetcode.com/problems/print-pattern-hollow-rectangle/)
 
 
+```
