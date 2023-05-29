@@ -195,8 +195,30 @@ public class patterns {
         }
     }
 
+    static void pattern14(int n){
+        for(int i = n; i >= 0; i--){
+            if(i == n){
+                for(int j = 0; j <= n; j++){
+                    System.out.print("*"+" ");
+                }
+                System.out.println();
+                i--;
+            }
+            for(int j = n-i; j > 0 ; j --){
+                System.out.print(" ");
+            }
+            for(int k = i*2+1; k > 0 ; k--){
+                if(k == i * 2 + 1 || k == 1)
+                    System.out.print("*");
+                else
+                    System.out.print(" ");
+            }
+            System.out.println();
+        }
+    }
+
     public static void main(String[] args) {
-        pattern13(6);
+        pattern14(6);
     }
 
 
