@@ -217,11 +217,68 @@ public class patterns {
         }
     }
 
-    public static void main(String[] args) {
-        pattern14(6);
+    static void pattern15(int n){
+        for(int i = 0; i < n; i++){
+            for(int j = n-i; j > 0 ; j --){
+                System.out.print(" ");
+            }
+            for(int k = i*2+1; k > 0 ; k--){
+                if(k == i*2+1 || k == 1)
+                    System.out.print("*");
+                else
+                    System.out.print(" ");
+            }
+            System.out.println();
+        }
+
+
+        for(int i = n; i >= 0; i--){
+            for(int j = n-i; j > 0 ; j --){
+                System.out.print(" ");
+            }
+            for(int k = i*2+1; k > 0 ; k--){
+                if(k == i * 2 + 1 || k == 1)
+                    System.out.print("*");
+                else
+                    System.out.print(" ");
+            }
+            System.out.println();
+        }
+    }
+
+    static void pattern16(int n){
+        for (int i = 0; i < n; i++) {
+            // Print spaces
+            for (int j = 0; j < n - i - 1; j++) {
+                System.out.print("  ");
+            }
+
+            int number = 1;
+            for (int j = 0; j <= i; j++) {
+                // Print numbers and double spaces
+                System.out.printf("%4d", number);
+                number = number * (i - j) / (j + 1);
+                System.out.print("  ");
+            }
+
+            System.out.println();
+        }
     }
 
 
 
+
+
+
+
+
+
+
+
+
+
+    public static void main(String[] args) {
+        pattern16(6);
+    }
 
 }
