@@ -15,14 +15,3 @@ The Divide and Conquer algorithm is a problem-solving technique that involves br
 - **Modularity**: The divide and conquer approach promotes modular code structure, making the algorithm easier to understand, implement, and maintain.
 - **Optimization**: By solving subproblems independently and combining their solutions, divide and conquer algorithms can optimize certain operations.
 
-## Examples
-- Merge Sort: It divides the array into smaller subarrays, sorts them individually, and then merges them to obtain the sorted array.
-- Quick Sort: It selects a pivot element, partitions the array based on the pivot, and recursively sorts the subarrays.
-- Binary Search: It divides the sorted array into halves and eliminates one half based on the comparison with the target element, until the element is found or the search space is empty.
-
-For detailed implementations and code examples, refer to the corresponding folders/files in this repository.
-
-## References
-- [Wikipedia - Divide and Conquer Algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
-
-Feel free to modify and enhance this note according to your needs, and include appropriate references or examples specific to your project or application.
