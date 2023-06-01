@@ -12,8 +12,5 @@ public class stringpractice {
 
         System.out.println(num+" "+str);
         sc.close();
-
-
-
     }
 }
