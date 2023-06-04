@@ -13,3 +13,8 @@ Create a dedicated folder using your unique username to store your solutions. On
 11. [Find Smallest Letter Greater Than Target.](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 12. [Find in Mountain Array.](https://leetcode.com/problems/find-in-mountain-array/description/)
 13. [Find Peak Element.](https://leetcode.com/problems/find-peak-element/)
+14. [The N-th root of an integer.](https://leetcode.com/problems/sqrtx/)
+15. [Matrix Median.](https://leetcode.com/problems/find-median-from-data-stream/)
+16. [Find the element that appears once in a sorted array.](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+17. [Allocate minimum number of pages.](https://leetcode.com/problems/allocate-minimum-number-of-pages/)
+18. [Aggressive cows.](https://www.spoj.com/problems/AGGRCOW/)
