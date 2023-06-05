@@ -13,3 +13,6 @@ Create a dedicated folder using your unique username to store your solutions. On
 11. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 12. [M Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)
 13. [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+14. [Print all permutations of a array](https://leetcode.com/problems/permutations/)
+15. [M Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)
+16. [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
