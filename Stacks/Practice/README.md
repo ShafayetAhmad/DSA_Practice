@@ -6,3 +6,4 @@ Create a dedicated folder using your unique username to store your solutions. On
 4. [Check for balanced parentheses in an expression](https://leetcode.com/problems/valid-parentheses/)
 5. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 6. [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+7. [The celebrity problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
