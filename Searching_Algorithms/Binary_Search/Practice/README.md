@@ -18,3 +18,4 @@ Create a dedicated folder using your unique username to store your solutions. On
 16. [Find the element that appears once in a sorted array.](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 17. [Allocate minimum number of pages.](https://leetcode.com/problems/allocate-minimum-number-of-pages/)
 18. [Aggressive cows.](https://www.spoj.com/problems/AGGRCOW/)
+19. [Count negative numbers in a column-wise and row-wise sorted matrix.](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
