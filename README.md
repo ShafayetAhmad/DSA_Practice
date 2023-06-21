@@ -44,7 +44,7 @@ To start practicing data structures and algorithms, follow these steps:
 
 ## Index of Algorithms
 
-The repository contains implementations and explanations of various algorithms. Below is an index of the available topics:
+The repository contains implementations and explanations of various data structures and algorithms. Below is an index of the available topics:
 
 Here's the modified list without the first underscore:
 
