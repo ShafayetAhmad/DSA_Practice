@@ -46,17 +46,27 @@ To start practicing data structures and algorithms, follow these steps:
 
 The repository contains implementations and explanations of various algorithms. Below is an index of the available topics:
 
-1. Arrays
-2. Linked Lists
-3. Stacks and Queues
-4. Recursion
-5. Sorting Algorithms
-6. Searching Algorithms
-7. Hashing
-8. Trees
-9. Graphs
-10. Dynamic Programming
-11. Advanced Algorithms
+Here's the modified list without the first underscore:
+
+- [01_Arrays](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/01_Arrays)
+- [02_Recursion_and_Backtracking](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/02_Recursion_and_Backtracking)
+- [03_Linked_Lists](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/03_Linked_Lists)
+- [04_Stacks](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/04_Stacks)
+- [05_Queues](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/05_Queues)
+- [06_Trees](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/06_Trees)
+- [07_Heaps_and_Priority_Queues](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/07_Heaps_and_Priority_Queues)
+- [08_Disjoint_Sets_ADT](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/08_Disjoint_Sets_ADT)
+- [09_Graph_Algorithms](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/09_Graph_Algorithms)
+- [10_Sorting_Algorithms](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/10_Sorting_Algorithms)
+- [11_Searching_Algorithms](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/11_Searching_Algorithms)
+- [12_Selection_Algorithms](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/12_Selection_Algorithms)
+- [13_Symble_Table](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/13_Symble_Table)
+- [14_Hashing](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/14_Hashing)
+- [15_String_and_StringBuilder](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/15_String_and_StringBuilder)
+- [16_Algorithm_Design_Techniques](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/16_Algorithm_Design_Techniques)
+- [17_Greedy_Algorithms](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/17_Greedy_Algorithms)
+- [18_Divide_and_Conquer_Algorithms](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/18_Divide_and_Conquer_Algorithms)
+- [19_Dynamic_Programming](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/19_Dynamic_Programming)
 
 Each topic folder contains Java classes with detailed explanations and examples. Explore the folders and dive into the topics that interest you the most.
 
