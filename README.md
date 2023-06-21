@@ -27,7 +27,7 @@ To start practicing data structures and algorithms, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/data-structures-algorithms-practice.git
+   git clone https://github.com/ShafayetAhmad/DSA_Practice.git
    ```
 
 2. Open the project in your favorite Java IDE.
