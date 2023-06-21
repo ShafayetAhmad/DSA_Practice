@@ -46,7 +46,6 @@ To start practicing data structures and algorithms, follow these steps:
 
 The repository contains implementations and explanations of various data structures and algorithms. Below is an index of the available topics:
 
-Here's the modified list without the first underscore:
 
 - [01_Arrays](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/01_Arrays)
 - [02_Recursion_and_Backtracking](https://github.com/ShafayetAhmad/DSA_Practice/tree/master/02_Recursion_and_Backtracking)
