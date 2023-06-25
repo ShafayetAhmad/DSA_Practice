@@ -7,3 +7,6 @@ Create a dedicated folder using your unique username to store your solutions. On
 5. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 6. [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
 7. [The celebrity problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
+8. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+9. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+
