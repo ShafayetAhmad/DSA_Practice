@@ -18,3 +18,6 @@ Create a dedicated folder using your unique username to store your solutions. On
 16. [Trapping Rainwater](https://leetcode.com/problems/trapping-rain-water/)
 17. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 18. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+19. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+20. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+21. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
