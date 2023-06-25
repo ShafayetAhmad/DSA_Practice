@@ -41,4 +41,9 @@ Create a dedicated folder using your unique username to store your solutions. On
 39. [Largest Subarray with K sum](https://leetcode.com/problems/subarray-sum-equals-k/)
 40. [Count number of subarrays with given XOR](https://leetcode.com/problems/xor-queries-of-a-subarray/)
 41. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+42. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+43. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+44. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+45. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
 
