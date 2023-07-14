@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //class Solution {
 //    public int maxConsecutiveAnswers(String answerKey, int k) {
 //        int size = answerKey. size();
@@ -37,3 +38,10 @@
 //        return result;
 //    }
 //}
+=======
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!!!");
+    }
+}
+>>>>>>> ce2d9035e56885ebcbe0c432e332f226ccd7af7b
