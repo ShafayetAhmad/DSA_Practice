@@ -1,0 +1,25 @@
+1. [Two Sum](https://leetcode.com/problems/two-sum/): Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to the target.
+2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/): You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+3. [Multiply Strings](https://leetcode.com/problems/multiply-strings/): Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
+4. [Plus One](https://leetcode.com/problems/plus-one/): Given a non-empty array of decimal digits representing a non-negative integer, increment one to the integer.
+5. [Add Binary](https://leetcode.com/problems/add-binary/): Given two binary strings a and b, return their sum as a binary string.
+6. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/): Given an integer number n, return the difference between the product of its digits and the sum of its digits.
+7. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/): Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator. Return the quotient after dividing dividend by divisor.
+8. [Power of Two](https://leetcode.com/problems/power-of-two/): Given an integer n, return true if it is a power of two. Otherwise, return false.
+9. [Pow(x, n)](https://leetcode.com/problems/powx-n/): Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+10. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/): Given a string columnTitle that represents the column title as appear in an Excel sheet, return its corresponding column number.
+11. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/): Given two integers representing the numerator and denominator of a fraction, return the fraction in string format. If the fractional part is repeating, enclose the repeating part in parentheses.
+12. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/): Given two integers a and b, return the sum of the two integers without using the operators + and -.
+13. [Add Strings](https://leetcode.com/problems/add-strings/): Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.
+14. [Count Primes](https://leetcode.com/problems/count-primes/): Count the number of prime numbers less than a non-negative number, n.
+15. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/): Evaluate the value of an arithmetic expression in Reverse Polish Notation. Valid operators are +, -, *, and /. Each operand may be an integer or another expression.
+16. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/): Given two strings representing two complex numbers. You need to return a string representing their multiplication. Note i2 = -1 according to the definition.
+17. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/): Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M. Given an integer, convert it to a roman numeral.
+18. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/): Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M. Given a roman numeral, convert it to an integer.
+19. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/): Given an integer columnNumber, return its corresponding column title as it appears in an Excel sheet.
+20. [Sqrt(x)](https://leetcode.com/problems/sqrtx/): Given a non-negative integer x, compute and return the square root of x.
+21. [Ugly Number](https://leetcode.com/problems/ugly-number/): An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5. Given an integer n, return true if n is an ugly number.
+22. [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/): An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5. Given an integer n, return the nth ugly number.
+23. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/): Given a string expression representing an expression of fraction addition and subtraction, return the calculation result in string format.
+24. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/): Given a non-negative integer c, decide whether there're two integers a and b such that a^2 + b^2 = c.
+25. [Rectangle Area](https://leetcode.com/problems/rectangle-area/): Given the coordinates of two rectilinear rectangles in a 2D plane, return the total area covered by the two rectangles.
