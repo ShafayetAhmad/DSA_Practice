@@ -20,4 +20,8 @@ int main()
     //      << anArray[4] << endl;
 
     cout << anArray.front() << " " << anArray.back() << " " << anArray.at(2) << endl;
+    for (int &it : anArray)
+    {
+        cout << it << endl;
+    }
 }
