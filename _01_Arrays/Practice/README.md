@@ -26,7 +26,7 @@ Create a dedicated folder using your unique username to store your solutions. On
 24. [Merger two sorted arrays without extra space](https://leetcode.com/problems/merge-sorted-array/)
 25. [Find the duplicate in an array of N+1 integers.](https://leetcode.com/problems/find-the-duplicate-number/)
 26. [Repeat and Missing Number](https://leetcode.com/problems/set-mismatch/)
-27. [Inversion of Array (Using Merge Sort)](https://leetcode.com/problems/global-and-local-inversions/)
+27. [Inversion of Array Using Merge Sort](https://leetcode.com/problems/global-and-local-inversions/)
 28. [Search in 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 29. [Pow(X,n)](https://leetcode.com/problems/powx-n/)
 30. [Majority Element](https://leetcode.com/problems/majority-element/)
