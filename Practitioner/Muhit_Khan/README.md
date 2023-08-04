@@ -1,6 +1,6 @@
 # Array
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
