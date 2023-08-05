@@ -7,7 +7,7 @@
 - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-- [ ] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
