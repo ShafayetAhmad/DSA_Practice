@@ -9,7 +9,7 @@
 - [x] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 - [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-- [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
