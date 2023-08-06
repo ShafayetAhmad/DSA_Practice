@@ -11,7 +11,7 @@
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] [Single Number](https://leetcode.com/problems/single-number/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
