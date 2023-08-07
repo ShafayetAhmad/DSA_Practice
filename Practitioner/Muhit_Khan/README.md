@@ -14,7 +14,7 @@
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Design HashMap](https://leetcode.com/problems/design-hashmap/)
 - [ ] [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
