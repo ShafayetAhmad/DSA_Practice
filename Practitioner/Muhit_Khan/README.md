@@ -15,7 +15,7 @@
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [ ] [Design HashMap](https://leetcode.com/problems/design-hashmap/)
+- [x] [Design HashMap](https://leetcode.com/problems/design-hashmap/)
 - [ ] [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
