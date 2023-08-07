@@ -13,7 +13,7 @@
 - [x] [Single Number](https://leetcode.com/problems/single-number/)
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Design HashMap](https://leetcode.com/problems/design-hashmap/)
 - [ ] [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
