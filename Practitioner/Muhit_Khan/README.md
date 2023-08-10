@@ -22,7 +22,7 @@
 - [x] [No overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [x] [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 # String
 
