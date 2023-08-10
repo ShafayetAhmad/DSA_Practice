@@ -26,7 +26,7 @@
 
 # String
 
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Add Strings](https://leetcode.com/problems/add-strings/)
