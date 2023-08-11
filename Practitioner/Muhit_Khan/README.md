@@ -22,12 +22,12 @@
 - [x] [No overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [x] [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 # String
 
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
-- [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [x] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Add Strings](https://leetcode.com/problems/add-strings/)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
