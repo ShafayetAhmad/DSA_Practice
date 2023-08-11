@@ -30,7 +30,7 @@
 - [x] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Add Strings](https://leetcode.com/problems/add-strings/)
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
