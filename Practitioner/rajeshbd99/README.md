@@ -1,13 +1,13 @@
 # Array
 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-- [ ] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+- [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
