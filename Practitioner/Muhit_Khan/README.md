@@ -28,7 +28,7 @@
 
 - [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [x] [Ransom Note](https://leetcode.com/problems/ransom-note/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Add Strings](https://leetcode.com/problems/add-strings/)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)
