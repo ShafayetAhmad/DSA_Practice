@@ -31,7 +31,7 @@
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [x] [Add Strings](https://leetcode.com/problems/add-strings/)
 - [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
-- [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [x] [Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
