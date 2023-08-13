@@ -33,7 +33,7 @@
 - [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [x] [Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [x] [Partition Labels](https://leetcode.com/problems/partition-labels/)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 - [ ] [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)
