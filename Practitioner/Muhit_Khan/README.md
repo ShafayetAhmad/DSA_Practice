@@ -36,7 +36,7 @@
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - [x] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
-- [ ] [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [x] [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 # Linked List
