@@ -22,16 +22,16 @@
 - [x] [No overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [x] [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 # String
 
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
-- [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Add Strings](https://leetcode.com/problems/add-strings/)
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
-- [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [x] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [x] [Add Strings](https://leetcode.com/problems/add-strings/)
+- [x] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [x] [Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [ ] [Partition Labels](https://leetcode.com/problems/partition-labels/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
