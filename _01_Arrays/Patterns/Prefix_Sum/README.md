@@ -1,3 +1,5 @@
+Prefix sum is a technique used to efficiently compute the sum of elements within a specified range in an array. It involves preprocessing the array to generate a prefix sum array, where each element at index `i` stores the cumulative sum of elements from index 0 to `i` in the original array. This allows for quick calculation of the sum of elements within a range `[left, right]` using the formula `prefixSum[right + 1] - prefixSum[left]`. This technique is beneficial for scenarios requiring frequent range sum queries on the same array, reducing the time complexity from linear to constant time for each query.
+
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/): Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
 2. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/): Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
