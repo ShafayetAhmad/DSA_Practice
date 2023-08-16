@@ -41,12 +41,12 @@
 
 # Linked List
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-- [ ] [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [x] [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [ ] [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [ ] [Remove Duplicate from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
