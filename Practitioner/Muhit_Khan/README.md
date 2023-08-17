@@ -43,7 +43,7 @@
 
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [ ] [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
