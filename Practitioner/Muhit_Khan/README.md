@@ -41,8 +41,8 @@
 
 # Linked List
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [ ] [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
