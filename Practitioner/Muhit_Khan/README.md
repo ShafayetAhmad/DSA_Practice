@@ -48,7 +48,7 @@
 - [x] [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)``
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [ ] [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [x] [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [ ] [Remove Duplicate from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [ ] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
