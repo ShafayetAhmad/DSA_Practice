@@ -51,27 +51,27 @@
 - [x] [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [x] [Remove Duplicate from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [x] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
-- [ ] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
+- [x] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 - [x] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 # Stack
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-- [ ] [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [x] [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 
 # Queue
 
 # Tree
 
-- [ ] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [ ] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- [ ] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [ ] [Inverse Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
