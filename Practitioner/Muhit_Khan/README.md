@@ -58,7 +58,7 @@
 # Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
 - [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
 - [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
