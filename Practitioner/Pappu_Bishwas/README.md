@@ -87,7 +87,7 @@
 - [x] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [x] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 - [ ] [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 - [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
