@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+#include<bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
@@ -38,3 +43,20 @@ public:
         return ans;
     }
 };
+
+int main() {
+    Solution solution;
+
+    vector<int> nums = {-1, 0, 1, 2, -1, -4};
+    vector<vector<int>> result = solution.threeSum(nums);
+
+    for (const vector<int>& triplet : result) {
+        cout << "[";
+        for (int num : triplet) {
+            cout << num << " ";
+        }
+        cout << "]" << endl;
+    }
+
+    return 0;
+}
