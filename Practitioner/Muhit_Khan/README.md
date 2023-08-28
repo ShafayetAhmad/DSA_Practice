@@ -50,19 +50,19 @@
 - [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [x] [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [x] [Remove Duplicate from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-- [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
-- [ ] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
-- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [x] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [x] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
+- [x] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 # Stack
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-- [ ] [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [x] [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 
 # Queue
 
