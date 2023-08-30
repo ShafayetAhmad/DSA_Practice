@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 // Definition for a binary tree node
-struct TreeNode {
+struct TreeNode
+{
     int val;
     TreeNode *left;
     TreeNode *right;
@@ -10,77 +11,88 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-
-class Solution {
+class Solution
+{
 public:
-    TreeNode* deleteNode(TreeNode* root, int k) {
+    TreeNode *deleteNode(TreeNode *root, int k)
+    {
 
-    if (root == NULL)
-        return root;
- 
-    if (root->val > k) {
-        root->left = deleteNode(root->left, k);
-        return root;
-    }
-    else if (root->val < k) {
-        root->right = deleteNode(root->right, k);
-        return root;
-    }
- 
-    if (root->left == NULL) {
-        TreeNode* temp = root->right;
-        delete root;
-        return temp;
-    }
-    else if (root->right == NULL) {
-        TreeNode* temp = root->left;
-        delete root;
-        return temp;
-    }
-    else {
- 
-        TreeNode* succParent = root;
- 
-        // Find successor
-        TreeNode* succ = root->right;
-        while (succ->left != NULL) {
-            succParent = succ;
-            succ = succ->left;
+        if (root == NULL)
+            return root;
+
+        if (root->val > k)
+        {
+            root->left = deleteNode(root->left, k);
+            return root;
+        }
+        else if (root->val < k)
+        {
+            root->right = deleteNode(root->right, k);
+            return root;
         }
 
-        if (succParent != root)
-            succParent->left = succ->right;
+        if (root->left == NULL)
+        {
+            TreeNode *temp = root->right;
+            delete root;
+            return temp;
+        }
+        else if (root->right == NULL)
+        {
+            TreeNode *temp = root->left;
+            delete root;
+            return temp;
+        }
         else
-            succParent->right = succ->right;
- 
-        root->val = succ->val;
- 
-        delete succ;
-        return root;
-      }
-  }
+        {
+
+            TreeNode *succParent = root;
+
+            // Find successor
+            TreeNode *succ = root->right;
+            while (succ->left != NULL)
+            {
+                succParent = succ;
+                succ = succ->left;
+            }
+
+            if (succParent != root)
+                succParent->left = succ->right;
+            else
+                succParent->right = succ->right;
+
+            root->val = succ->val;
+
+            delete succ;
+            return root;
+        }
+    }
 };
 
-void printInorder(TreeNode* root) {
-    if (root) {
+void printInorder(TreeNode *root)
+{
+    if (root)
+    {
         printInorder(root->left);
         std::cout << root->val << " ";
         printInorder(root->right);
     }
 }
 
-void deleteTree(TreeNode* root) {
-    if (root) {
+void deleteTree(TreeNode *root)
+{
+    if (root)
+    {
         deleteTree(root->left);
         deleteTree(root->right);
         delete root;
     }
 }
 
-
-int main() {
+int main()
+{
     // Create a sample binary search tree
-    TreeNode* root = new TreeNode(5);
+    TreeNode *root = new TreeNode(5);
     root->left = new TreeNode(3);
     root->right = new TreeNode(8);
     root->left->left = new TreeNode(2);
@@ -97,7 +109,7 @@ int main() {
     // Print the modified tree (inorder traversal)
     std::cout << "Modified tree (inorder traversal): ";
     printInorder(root);
-    
+
     // Clean up the memory by deleting the remaining nodes
     deleteTree(root);
 

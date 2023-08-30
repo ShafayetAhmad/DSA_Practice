@@ -88,13 +88,13 @@
 - [x] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 - [x] [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
 - [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+- [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 - [x] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 # Graph
 
-- [ ] [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+- [x] [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [ ] [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 - [ ] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
