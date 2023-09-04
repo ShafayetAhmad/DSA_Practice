@@ -1,27 +1,24 @@
-<<<<<<< HEAD
-Hi i am RAJESH and i am commited to pratice dsa 1 hour everyday.
-=======
 # Array
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- [x] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 - [x] [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-- [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [x] [Single Number](https://leetcode.com/problems/single-number/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Design HashMap](https://leetcode.com/problems/design-hashmap/)
 - [ ] [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [x] [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [ ] [No overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -107,4 +104,3 @@ Hi i am RAJESH and i am commited to pratice dsa 1 hour everyday.
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
->>>>>>> 181afdbc0904094130f1c9fc37a0ece2d6075cb2
