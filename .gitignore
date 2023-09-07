@@ -2,5 +2,14 @@
 out/*
 DSA_Practice.iml
 .vscode
+<<<<<<< HEAD
 *.exe
 *.out
+=======
+<<<<<<< HEAD
+*.exe
+*.out
+=======
+*.exe
+>>>>>>> 181afdbc0904094130f1c9fc37a0ece2d6075cb2
+>>>>>>> ecefbcd0c1cdec60d725f29652e68f7fc581faeb
