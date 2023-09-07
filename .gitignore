@@ -3,3 +3,4 @@ out/*
 DSA_Practice.iml
 .vscode
 *.exe
+*.out
