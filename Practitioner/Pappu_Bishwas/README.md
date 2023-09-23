@@ -138,8 +138,8 @@
 
 - [x] [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 >>>>>>> ecefbcd0c1cdec60d725f29652e68f7fc581faeb
-- [ ] [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
-- [ ] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+- [x] [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+- [x] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
 # Heap/Priority Queue
 
