@@ -52,7 +52,7 @@
 - [x] [Remove Duplicate from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [x] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 <<<<<<< HEAD
-- [ ] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
+- [x] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 =======
 - [x] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 >>>>>>> ecefbcd0c1cdec60d725f29652e68f7fc581faeb
@@ -62,12 +62,12 @@
 # Stack
 
 <<<<<<< HEAD
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-- [ ] [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [x] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [x] [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 =======
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Min Stack](https://leetcode.com/problems/min-stack/)
@@ -82,33 +82,33 @@
 # Tree
 
 <<<<<<< HEAD
-- [ ] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [ ] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-- [ ] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
-- [ ] [Inverse Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] [Path Sum](https://leetcode.com/problems/path-sum/)
-- [ ] [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
-- [ ] [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
-- [ ] [The Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-- [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-- [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
-- [ ] [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [x] [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [x] [Inverse Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Path Sum](https://leetcode.com/problems/path-sum/)
+- [x] [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- [x] [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+- [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [x] [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+- [x] [The Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [x] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- [x] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [x] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [x] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+- [x] [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+- [x] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [x] [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+- [x] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [x] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 # Graph
 
-- [ ] [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+- [x] [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 =======
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [x] [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
@@ -138,8 +138,8 @@
 
 - [x] [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 >>>>>>> ecefbcd0c1cdec60d725f29652e68f7fc581faeb
-- [ ] [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
-- [ ] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+- [x] [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+- [x] [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
 # Heap/Priority Queue
 
