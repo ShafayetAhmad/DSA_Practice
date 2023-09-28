@@ -143,7 +143,7 @@
 
 # Heap/Priority Queue
 
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [x] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
