@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Array
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -42,16 +43,16 @@
 
 # Linked List
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-- [ ] [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-- [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-- [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [ ] [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-- [ ] [Remove Duplicate from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-- [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [x] [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [x] [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [x] [Remove Duplicate from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [x] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [ ] [Design Linked List](https://leetcode.com/problems/design-linked-list/)
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
@@ -104,11 +105,9 @@
 - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
-- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
-=======
-<<<<<<< HEAD
-Array
-=======================================
+- [ ] # [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+  <<<<<<< HEAD Array =======================================
+
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 2. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 3. [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -118,8 +117,7 @@ Array
 7. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 8. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 9. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-10. [Search a 2D Matrix)](https://leetcode.com/problems/search-a-2d-matrix/)
-=======================================
+10. # [Search a 2D Matrix)](https://leetcode.com/problems/search-a-2d-matrix/)
 11. [Single Number](https://leetcode.com/problems/single-number/)
 12. [Majority Element](https://leetcode.com/problems/majority-element/)
 13. [3Sum](https://leetcode.com/problems/3sum/)
@@ -134,12 +132,11 @@ Array
 22. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 23. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-String
-=======================================
+# String
+
 1. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 2. [Ransom Note](https://leetcode.com/problems/ransom-note/)
-3. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-=======================================
+3. # [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 4. [Add Strings](https://leetcode.com/problems/add-strings/)
 5. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 6. [Word Pattern](https://leetcode.com/problems/word-pattern/)
@@ -149,14 +146,13 @@ String
 10. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 11. [Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
-Linked List
-===========
+# Linked List
+
 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 2. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 3. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 4. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-5. [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-=======================================
+5. # [Remove Duplicate from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 6. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 7. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 8. [Insertion of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
@@ -166,8 +162,8 @@ Linked List
 12. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 13. [Reorder List](https://leetcode.com/problems/reorder-list/)
 
-Stack
-=====
+# Stack
+
 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 2. [Min Stack](https://leetcode.com/problems/min-stack/)
 3. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
@@ -175,11 +171,10 @@ Stack
 5. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 6. [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 
-Queue
-=====
+# Queue
 
-Tree
-====
+# Tree
+
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 2. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 3. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
@@ -204,20 +199,19 @@ Tree
 22. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 23. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
-Graph
-=====
+# Graph
 
 1. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 2. [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 3. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
 
-Heap/Priority Queue
-===================
+# Heap/Priority Queue
+
 1. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 2. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 3. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
-4. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
-=======
+4. # [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
 # Array
 
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -324,5 +318,4 @@ Heap/Priority Queue
 - [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
->>>>>>> 181afdbc0904094130f1c9fc37a0ece2d6075cb2
->>>>>>> ecefbcd0c1cdec60d725f29652e68f7fc581faeb
+  > > > > > > > 181afdbc0904094130f1c9fc37a0ece2d6075cb2 ecefbcd0c1cdec60d725f29652e68f7fc581faeb
